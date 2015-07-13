@@ -4,7 +4,6 @@ reports
 
 # Third Party Dependencies
 node_modules
-libs/*
 
 # Webstorm Files
 .idea
